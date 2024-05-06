@@ -155,8 +155,10 @@ public class MainActivity extends Activity {
 
 ```
 ## OUTPUT
-![IMG-20240404-WA0009](https://github.com/Harsayazheni/gallerycontrol/assets/118708467/b351371d-ebb6-491b-a240-ef0c42c69add)
-![IMG-20240404-WA0016](https://github.com/Harsayazheni/gallerycontrol/assets/118708467/b897cc8c-5a07-4088-8805-5c57935973df)
+<img src="https://github.com/Harsayazheni/gallerycontrol/assets/118708467/b351371d-ebb6-491b-a240-ef0c42c69add.png" height="600">
+<img src="https://github.com/Harsayazheni/gallerycontrol/assets/118708467/b897cc8c-5a07-4088-8805-5c57935973df.png" height="600">
+
+
 
 
 
